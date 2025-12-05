@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Issues and Feedback
 
-Please file issues, bugs, or feature requests in our [issue tracker](https://github.com/yourusername/text_avatars/issues).
+Please file issues, bugs, or feature requests in our [issue tracker](https://github.com/rajjani88/text_avatars/issues).
 
 ## Changelog
 
