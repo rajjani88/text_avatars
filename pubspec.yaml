@@ -1,9 +1,9 @@
 name: text_avatars
 description: A customizable Flutter package for creating circular user avatars with automatic initials generation, smart fallback handling, and consistent color generation.
 version: 0.1.0
-homepage: https://github.com/yourusername/text_avatars
-repository: https://github.com/yourusername/text_avatars
-issue_tracker: https://github.com/yourusername/text_avatars/issues
+homepage: https://github.com/rajjani88/text_avatars
+repository: https://github.com/rajjani88/text_avatars
+issue_tracker: https://github.com/rajjani88/text_avatars/issues
 
 topics:
   - avatar
