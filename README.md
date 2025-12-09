@@ -4,13 +4,13 @@ A customizable Flutter package for creating beautiful circular user avatars with
 <table>
 <tr>
 <td>
-  <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.17.png?raw=true" width="128"/>
+  <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.17.png?raw=true" width="200"/>
 </td>
 <td>
-  <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.17.png?raw=true" width="128"/>
+  <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.17.png?raw=true" width="200"/>
 </td>
   <td>
-    <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.23.png?raw=true" width="128"/>
+    <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.23.png?raw=true" width="200"/>
   </td>
 </tr>  
 </table>
