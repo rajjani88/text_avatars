@@ -1,8 +1,20 @@
 # text_avatars
 
 A customizable Flutter package for creating beautiful circular user avatars with automatic initials generation, smart fallback handling, and consistent color generation.
-<img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.17.png?raw=true" width="128"/>
-![Screen shot 1](https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.17.png?raw=true)
+<table>
+<tr>
+<td>
+  <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.17.png?raw=true" width="128"/>
+</td>
+<td>
+  <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.17.png?raw=true" width="128"/>
+</td>
+  <td>
+    <img src="https://github.com/rajjani88/text_avatars/blob/main/example/screenshots/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202025-12-05%20at%2015.38.23.png?raw=true" width="128"/>
+  </td>
+</tr>  
+</table>
+
 ## Features
 
 ✨ **Smart Display Modes:**
